@@ -1,7 +1,7 @@
 ## About me
 
 ## My public talks
-See talks [here] (angerami/public-talks.md)
+See talks [here](angerami/public-talks.md)
 
 <!--
 **angerami/angerami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
