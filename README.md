@@ -4,6 +4,7 @@ I am a physicist with experience applying quantitative methods to solve challeng
 ### Scientific Publications
 * INSPIRE HEP: [profile](https://inspirehep.net/authors/1067316)
 * ORCID: [0000-0001-7834-8750](https://orcid.org/0000-0001-7834-8750)
+* Google Scholar: [profile](https://scholar.google.com/citations?user=8EqJb6kAAAAJ&hl=en)
 
 ### Public talks
 <details>
