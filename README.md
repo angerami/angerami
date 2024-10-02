@@ -106,9 +106,7 @@ I am a physicist with experience applying quantitative methods to solve challeng
 <summary>Seminars, Colloquia and Lectures</summary>
  <br />
   
-*Applications of AI and ML to Nuclear Physics*, Lectures at 2023. 
-
-*National Nuclear Physics Summer School*, Riverside, CA, July 2023.
+*Applications of AI and ML to Nuclear Physics*, Lectures at 2023 National Nuclear Physics Summer School, Riverside, CA, July 2023.
 
 *Machine Learning Approaches to Calorimetric Particle Reconstruction in High Energy Physics*, seminar University of Washington, WA, August 2022.
 
